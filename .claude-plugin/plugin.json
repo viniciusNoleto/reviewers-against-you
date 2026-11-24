@@ -1,0 +1,10 @@
+{
+  "name": "reviewers-against-you",
+  "version": "0.3.0",
+  "description": "An adversarial editorial board for scientific manuscripts: four specialist reviewers, a devil's advocate who attacks both the paper and the reviews, a board debate where every criticism must survive, and a reasoned editorial decision with scores and a prioritized roadmap. A pre-submission simulation, not an official decision.",
+  "author": {
+    "name": "Vinícius Nolêto"
+  },
+  "license": "MIT",
+  "keywords": ["peer-review", "scientific-writing", "academic", "manuscript", "editorial-board", "research"]
+}

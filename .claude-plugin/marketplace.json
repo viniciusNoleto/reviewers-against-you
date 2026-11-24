@@ -1,0 +1,14 @@
+{
+  "name": "reviewers-against-you",
+  "owner": {
+    "name": "Vinícius Nolêto"
+  },
+  "description": "Adversarial review panels for researchers: an editorial board that peer-reviews scientific manuscripts before submission.",
+  "plugins": [
+    {
+      "name": "reviewers-against-you",
+      "source": "./",
+      "description": "Editorial Board Against You: an adversarial peer-review simulation for scientific manuscripts, where even the reviewers' criticisms must survive the board."
+    }
+  ]
+}
