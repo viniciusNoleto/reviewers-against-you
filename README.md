@@ -27,7 +27,7 @@ Inspired by [interviewers-against-you](../interviewers-against-you), applied to 
 ## Install
 
 ```
-/plugin marketplace add <path-or-repo-of-this-plugin>
+/plugin marketplace add https://github.com/viniciusNoleto/reviewers-against-you
 /plugin install reviewers-against-you@reviewers-against-you
 ```
 
